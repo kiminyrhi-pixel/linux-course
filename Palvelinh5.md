@@ -7,7 +7,6 @@ Getting Started - What is Git?
   - Git ei tallenna pelkästään pieniä tekstejä
   - Kaikki tapahtuu omalla koneella, joten se on tosi nopeaa ja toimii vaikka ilman nettiä
   - Git varmistaa kaiken tiedon säilymisen muuttumattomana antamalla jokaiselle tiedostolle oman tunnisteen
-  - Gittiin tallennettuja asioita on lähes mahdotonta hävittää vahingossa, joten voi vapaasti testailla eri juttuja ilman pelkoa siitä, että hävität jotain lopullisesti.
   - Muokataan tiedostoja, jonka jälkeen otettaan mukaan haluamat muutokset ja lopuksi tallennetaan Gittiin.
 
 git add --all && git commit; git pull && git push
